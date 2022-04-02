@@ -1,6 +1,13 @@
 # MGDCF
 Source code and dataset of the paper "Source code and dataset of the paper "MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering"
 
+## InfoBPR Loss
+
+We propose a simple yet powerful InfoBPR Loss for ranking. We also build an out-of-the-box library for InfoBPR:
++ [https://github.com/CrawlScript/InfoBPR](https://github.com/CrawlScript/InfoBPR)
+
+The InfoBPR support both TensorFlow and PyTorch, and it can be installed with pip.
+
 
 ## Requirements
 
