@@ -32,3 +32,28 @@ cd scripts/gnn_speed/yelp
 sh run_gdcf_HeteroMGDCF_yelp.sh
 ```
 Note that the parameter settings are in the shell scripts, and you should only modify the "gpu_ids" argument.
+
+
+
+## Cite
+
+If you use MGDCF in a scientific publication, we would appreciate citations to the following paper:
+
+@misc{https://doi.org/10.48550/arxiv.2204.02338,
+  doi = {10.48550/ARXIV.2204.02338},
+  
+  url = {https://arxiv.org/abs/2204.02338},
+  
+  author = {Hu, Jun and Qian, Shengsheng and Fang, Quan and Xu, Changsheng},
+  
+  keywords = {Social and Information Networks (cs.SI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
