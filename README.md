@@ -1,5 +1,11 @@
 # MGDCF
-Source code and dataset of the paper "Source code and dataset of the paper "MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering"
+Source code and dataset of the paper "Source code and dataset of the paper [MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering](https://arxiv.org/abs/2204.02338)
+
+## Homepage and Paper
+
++ Homepage (MGDCF): [https://github.com/hujunxianligong/MGDCF](https://github.com/hujunxianligong/MGDCF)
++ Homepage (InfoBPR Loss): [https://github.com/CrawlScript/InfoBPR](https://github.com/CrawlScript/InfoBPR)
++ Paper: [MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering](https://arxiv.org/abs/2204.02338) 
 
 ## InfoBPR Loss
 
