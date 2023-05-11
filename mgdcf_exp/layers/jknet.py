@@ -12,7 +12,6 @@ import grecx as grx
 from grecx.datasets.light_gcn_dataset import LightGCNDataset
 import tf_geometric as tfg
 from grecx.layers import LightGCN
-from tf_geometric import SparseAdj
 from tf_geometric.nn import gcn_build_cache_for_graph, gcn_norm_adj
 from tf_geometric.utils import tf_utils
 import pickle

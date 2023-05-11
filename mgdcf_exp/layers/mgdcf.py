@@ -3,7 +3,6 @@ import numpy as np
 import scipy.sparse as sp
 import tf_sparse as tfs
 from grecx.layers import LightGCN
-from tf_geometric import SparseAdj
 
 
 def build_homo_adjs(user_item_edges, num_users, num_items, adj_drop_rate):

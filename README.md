@@ -19,9 +19,10 @@ The InfoBPR support both TensorFlow and PyTorch, and it can be installed with pi
 
 + Linux
 + Python 3.7
-+ tensorflow == 2.4.1
-+ tf_geometric == 0.0.81
-+ grecx == 0.0.3
++ tensorflow == 2.7.0
++ tf_geometric == 0.1.5
++ tf_sparse == 0.0.17
++ grecx >= 0.0.6
 + tqdm=4.51.0
 
 
