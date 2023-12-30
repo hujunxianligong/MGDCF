@@ -1,3 +1,7 @@
+<p align="center">
+<img src="MGDCF_LOGO.png" width="400"/>
+</p>
+
 # MGDCF
 Source code and dataset of the paper "Source code and dataset of the paper [MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering](https://arxiv.org/abs/2204.02338)
 
