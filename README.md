@@ -3,7 +3,7 @@
 </p>
 
 # MGDCF
-# Torch-MGDCF
+
 Source code (TensorFlow) and dataset of the paper "[MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering](https://arxiv.org/abs/2204.02338)", which is accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
 
